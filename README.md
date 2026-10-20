@@ -1,3 +1,17 @@
+# Mi laboratorio de desarrollo web
+
+## Objetivo
+
+Este proyecto es mi laboratorio de desarrollo web, donde voy practicando y aprendiendo a utilizar HTML, CSS, JavaScript y Git.
+
+## Proyecto original
+
+He partido del proyecto WebLab de franmatias:
+https://github.com/franmatias/weblab
+
+Mi repositorio:
+https://github.com/princecairo7/mi-weblab
+
 # WebLab — Tu primera web, paso a paso
 
 **v0.1 · 1.º DAM · Lenguajes de Marcas y Sistemas de Gestión de Información (LMSGI)**
