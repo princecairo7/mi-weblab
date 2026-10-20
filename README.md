@@ -245,3 +245,12 @@ La entrega inicial se revisa en local para rutas relativas, fragmentos, recursos
 Proyecto base preparado con asistencia de IA para uso docente en LMSGI. Los diagramas SVG y el favicon se han creado para este proyecto; no se incluyen fotografías o fuentes de terceros. El docente y el alumnado pueden añadir sus nombres a los créditos al adaptar el material, según sus preferencias de publicación.
 
 El código, los textos originales y los SVG de esta entrega se distribuyen bajo [licencia MIT](LICENSE). Las páginas externas conservan sus propias condiciones de uso. Si incorporas nuevos recursos, documenta su autoría, origen y licencia.
+
+## Trabajo realizado
+
+- He personalizado la web WebLab.
+- He modificado varias páginas HTML y actualizado sus enlaces.
+- He trabajado con ramas, commits y GitHub.
+- He practicado la creación y eliminación de archivos.
+- He provocado y resuelto un conflicto de Git.
+- He aprendido a deshacer cambios y mantener el historial del proyecto.
